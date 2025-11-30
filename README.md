@@ -30,24 +30,24 @@ This app is for learning purpose only! Do not submit it to App Store!
 
 Splash Screen
 
-![Splash Screen](docs/pic-1-splash-screen.png)
+![Splash Screen](./docs/pic-1-splash-screen.png)
 
 Main Page
 
-![Main Page](docs/pic-2-main-page.png)
+![Main Page](./docs/pic-2-main-page.png)
 
 All Characters Page
 
-![All Characters Page](docs/pic-3-all-characters.png)
+![All Characters Page](./docs/pic-3-all-characters.png)
 
 Search Page
 
-![Search Page](docs/pic-4-search.png)
+![Search Page](./docs/pic-4-search.png)
 
 Favorite Stickers Page
 
-![Favorite Stickers Page](docs/pic-5-favorite.png)
+![Favorite Stickers Page](./docs/pic-5-favorite.png)
 
 About Page
 
-![About Page](docs/pic-6-about.png)
+![About Page](./docs/pic-6-about.png)
